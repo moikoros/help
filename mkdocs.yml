@@ -1,0 +1,49 @@
+site_name: Help
+site_url: https://github.com/moikoros/help/
+repo_name: infinite/help
+repo_url: https://github.com/moikoros/help
+
+theme:
+  name: material
+  custom_dir: docs/assets/overrides
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    scheme: fusion-dark
+    primary: black
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - assets/style.css
+
+nav:
+  - Home: index.md
+  - Tutorials:
+    - Get Started: tutorials/index.md
+    - Infinite Yield:
+      - Executing: inf/executing.md
+      - Getting Plugins: inf/gettingplugins.md
+      - Installing Plugins: inf/installingplugins.md
+      - Using Plugins: inf/usingplugins.md
+      - Creating Plugins: inf/creatingplugins.md
+    - Common Issues: tutorials/issues.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - meta
+  - pymdownx.superfences
+  - pymdownx.betterem
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.inlinehilite
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      guess_lang: false
