@@ -32,7 +32,7 @@ nav:
       - Installing Plugins: inf/installingplugins.md
       - Using Plugins: inf/usingplugins.md
       - Creating Plugins: inf/creatingplugins.md
-    - Questions: tutorials/q&a.md
+    - Questions: tutorials/questions.md
 
 markdown_extensions:
   - admonition
