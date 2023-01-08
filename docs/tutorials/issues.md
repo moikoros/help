@@ -12,3 +12,15 @@
 	5. Join a game and execute Infinite Yield
 	
 	This will delete all your saved Infinite Yield settings (Prefix, Waypoints, etc.)
+
+## Why do some commands not work on (game name)?
+
+Lots of Roblox games have anticheats in place to prevent players from using scripts to gain an unfair advantage over other players. These anticheats work by detecting and preventing players from using unauthorized or malicious software or code that could alter the game in some way, such as by giving a player unlimited resources, superpowers, or other benefits that are not available to other players.
+
+There are a few reasons why developers might implement an anticheat in their games:
+
+`To ensure a fair and balanced gaming experience`: Anticheats help to level the playing field by ensuring that all players are playing by the same rules and that no one is able to gain an unfair advantage.
+
+`To protect the integrity of the game`: Executors can disrupt the game's balance and undermine the game's overall quality, which can lead to player frustration and a decline in the game's popularity.
+
+`To prevent exploitation of vulnerabilities`: Anticheats can help to prevent players from exploiting vulnerabilities in the game to gain an advantage or cause harm to other players.
