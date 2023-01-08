@@ -35,8 +35,6 @@ Roblox makes even more money off of the community through scripts that require h
 
 In conclusion, Byfron. The anticheat for only investors, will be most likely removed once Roblox's performance flops.
 
-Thanks to Alex for all of this information.
-
 ## Why do some commands need a tool?
 
 It simply requires a tool to function properly.
