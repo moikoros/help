@@ -24,3 +24,5 @@ There are a few reasons why developers might implement an anticheat in their gam
 `To protect the integrity of the game`: Executors can disrupt the game's balance and undermine the game's overall quality, which can lead to player frustration and a decline in the game's popularity.
 
 `To prevent exploitation of vulnerabilities`: Anticheats can help to prevent players from exploiting vulnerabilities in the game to gain an advantage or cause harm to other players.
+
+oh no misinput I pushed a site update
