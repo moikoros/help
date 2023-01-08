@@ -36,3 +36,13 @@ Roblox makes even more money off of the community through scripts that require h
 In conclusion, Byfron. The anticheat for only investors, will be most likely removed once Roblox's performance flops.
 
 Thanks to Alex for all of this information.
+
+## Why do some commands need a tool?
+
+It simply requires a tool to function properly.
+
+It needs a tool from the game itself that has a handle. An example of a handle is a sword. You hold the sword by it's handle which is usually an invisible block.
+
+If there are no tools in the game then you can not use the command.
+
+You can't spawn a tool in through a script.
