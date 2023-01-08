@@ -1,6 +1,8 @@
 <script src="../assets/scroll.js"></script>
 
-Anything with the 🌟 emoji are my preferred options. (My opinion, do not expect them to be the best)
+Sit back, play some [music](https://youtu.be/_DlHmoYP7V4), and read on.
+
+Anything with the 🌟 emoji are my preferred options. Since it's my opinion do not instantly assume they are the best.
 
 ## Recommended Executors
 
@@ -86,13 +88,11 @@ As Roblox says: "Enabling `Filtering Enabled` is the best way of restricting exp
 
 "But my friend said he can disable FE and it's possible!"
 
-Shut up, no it's not. He lied to you, you gullible piece of-
+Shut up, no it's not. He lied to you, stop trusting strangers on the internet.
 
 ## Can I copy games?
 
-Sorta.
-
-Your executor needs to have a decompiler. Because of `Filtering Enabled` you can not save server scripts, only the map, module scripts, and local scripts.
+Not in the way most people think. Your executor needs to have a decompiler. Because of `Filtering Enabled` you can not save server scripts, only the map, module scripts, and local scripts.
 
 If your executor has a decompiler you can just run:
 
@@ -108,11 +108,11 @@ The Workspace folder is a folder that's in your executor's folder. That's alot o
 	1. Open the folder where your executor is located
 	2. Look for a folder named `workspace`
 	
-	If it doesn't exist, your executor is garbage. Get a executor from the top of this page under `Recommended Executors`.
+	If it doesn't exist, your executor is garbage. Get an executor from the top of this page under `Recommended Executors`.
 
 ## What are some safe websites to get scripts?
 
-I recommend you use an adblocker when you visit some of these websites.
+I recommend you use an [adblocker](https://adblockultimate.net) when you visit some of these websites.
 
 <a href="https://robloxscripts.com">robloxscripts</a>
 
@@ -126,4 +126,4 @@ First of all, learning how to fully understand scripting is very hard as the pro
 
 What you need is dedication, you won't be able to understand the basics in just a day. But if you're autistic enough maybe you will.
 
-<p>If you want to learn how to make simple scripts, and also intermediate ones I'd recommend <a href="https://www.reddit.com/r/robloxhackers/comments/ok3hsg/beginners_exploit_guide">wYn#0001's tutorials</a>, the tutorials are very good and he also teaches you how a UI Library works.</p>
+<p>If you want to learn how to make simple scripts, and also intermediate ones I'd recommend <a href="https://youtube.com/playlist?list=PLw1uWqQBDcgjKqFjPNgtVtBNx3xTGz-l7">wYn#0001's tutorials</a>, the tutorials are very good and he also teaches you how a UI Library works.</p>
