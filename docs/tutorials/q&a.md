@@ -25,4 +25,14 @@ There are a few reasons why developers might implement an anticheat in their gam
 
 `To prevent exploitation of vulnerabilities`: Anticheats can help to prevent players from exploiting vulnerabilities in the game to gain an advantage or cause harm to other players.
 
-oh no misinput I pushed a site update
+## What about Byfron?
+
+Why are people worrying about Byfron? Roblox only mentioned Byfron in order to address the concerns of investors.
+
+Byfron is only compatible with Windows, and cannot be used on Mac, Linux, or mobile devices. The Microsoft Store version of Roblox is also unable to run Byfron. Byfron doesn't even work on Linux through wine.
+
+Roblox makes even more money off of the community through scripts that require hats which cost Robux. Robux costs money. It can take a single Roblox employee to actually be dedicated every week to update Roblox to patch every executor for possibly days.
+
+In conclusion, Byfron. The anticheat for only investors, will be most likely removed once Roblox's performance flops.
+
+Thanks to Alex for all of this information.
