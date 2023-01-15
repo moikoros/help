@@ -17,13 +17,15 @@ For questions not listed here, please join the [Discord](https://discord.com/inv
 	
 	This will delete all your saved Infinite Yield settings (Prefix, Waypoints, etc.)
 
-## What is a tool and why do I need it?
+## Why do some commands need a tool?
 
-Some commands require a tool to function properly because without one it's impossible.
+It simply requires a tool to function properly.
+
+It needs a tool from the game itself that has a handle. An example of a handle is a sword. You hold the sword by it's handle which is usually an invisible block.
 
 If there are no tools in the game then you can not use the command.
 
-An example of a proper tool to use is a sword since it has a handle.
+You can't spawn a tool in through a script.
 
 ## Why do some commands not work on (game name)?
 
@@ -46,13 +48,3 @@ Byfron is only compatible with Windows, and cannot be used on Mac, Linux, or mob
 Roblox makes even more money off of the community through scripts that require hats which cost Robux. Robux costs money. It can take a single Roblox employee to actually be dedicated every week to update Roblox to patch every executor for possibly days.
 
 In conclusion, Byfron. The anticheat for only investors, will be most likely removed once Roblox's performance flops.
-
-## Why do some commands need a tool?
-
-It simply requires a tool to function properly.
-
-It needs a tool from the game itself that has a handle. An example of a handle is a sword. You hold the sword by it's handle which is usually an invisible block.
-
-If there are no tools in the game then you can not use the command.
-
-You can't spawn a tool in through a script.
