@@ -17,6 +17,14 @@ For questions not listed here, please join the [Discord](https://discord.com/inv
 	
 	This will delete all your saved Infinite Yield settings (Prefix, Waypoints, etc.)
 
+## What is a tool and why do I need it?
+
+Some commands require a tool to function properly because without one it's impossible.
+
+If there are no tools in the game then you can not use the command.
+
+An example of a proper tool to use is a sword since it has a handle.
+
 ## Why do some commands not work on (game name)?
 
 Lots of Roblox games have anticheats in place to prevent players from using scripts to gain an unfair advantage over other players. These anticheats work by detecting and preventing players from using unauthorized or malicious software or code that could alter the game in some way, such as by giving a player unlimited resources, superpowers, or other benefits that are not available to other players.
