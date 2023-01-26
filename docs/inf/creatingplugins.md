@@ -106,3 +106,5 @@ local Plugin = {
 
 return Plugin
 ```
+
+If you are struggling, feel free to use the following template.
