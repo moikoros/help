@@ -28,6 +28,14 @@ An exploit is the use of glitches and software vulnerabilities in Roblox by a pl
 
 Many users believe that the correct term for programs that change Roblox for a player's advantage is "**exploiting**", and others believe "**hacking**" is the correct term. However, **hacking** is the act of *gaining unauthorized access to a system* while **exploiting** is *abusing a vulnerability* to do the same.
 
+## Can I trust downloading an executor?
+
+Antiviruses usually mistake executors as viruses due to their nature. Most (if not all) modern executors work by injecting some sort of DLL file into Roblox and running Lua code (scripts) in the environment it creates.
+
+Just make sure that you have downloaded the executors on their official websites, as other people can skid or make recreations of them and add viruses into their fake version.
+
+If you have trust issues don't get an executor.
+
 ## Can I get banned for using an executor?
 
 Use executors at your own risk, always use an alt. Just remember you are breaking the Terms of Service so if you're caught by a Roblox admin, you can kiss your account goodbye. There are some videos where Admins don't care at all when you're exploiting, since they have the attention span of a goldfish.
