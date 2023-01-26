@@ -73,7 +73,36 @@ A snippet is pseudo-code which means it will not work at it's current state as i
     ["Description"] = "DESCRIPTION HERE",
     ["Aliases"] = {"ALIAS1", "ALIAS2", "ALIAS3"},
     ["Function"] = function(args, speaker)
-        --CODE
+        -- CODE
     end
 }
+```
+
+Here is an example.
+
+```lua
+local Plugin = {
+    ["PluginName"] = "ExamplePlugin",
+    ["PluginDescription"] = "This is a helpful template",
+    ["Commands"] = {
+        ["print"] = {
+            ["ListName"] = "print [text]",
+            ["Description"] = "Outputs text to the Roblox console",
+            ["Aliases"] = {"p", "out", "output"},
+            ["Function"] = function(args, speaker)
+                print(getstring(1))  
+            end
+        },
+        ["notify"] = {
+            ["ListName"] = "notify [text]",
+            ["Description"] = "uses the notification function",
+            ["Aliases"] = {"alert"},
+            ["Function"] = function(args, speaker)
+                notify("Notification Title", getstring(1))
+            end
+        }
+    }
+}
+
+return Plugin
 ```
