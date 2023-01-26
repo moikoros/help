@@ -135,3 +135,25 @@ First of all, learning how to fully understand scripting is very hard as the pro
 What you need is dedication, you won't be able to understand the basics in just a day. But if you're autistic enough maybe you will.
 
 <p>If you want to learn how to make simple scripts, and also intermediate ones I'd recommend <a href="https://youtube.com/playlist?list=PLw1uWqQBDcgjKqFjPNgtVtBNx3xTGz-l7">wYn#0001's tutorials</a>, the tutorials are very good and he also teaches you how a UI Library works.</p>
+
+## Why do some scripts not work on certain games?
+
+Lots of Roblox games have anticheats in place to prevent players from using scripts to gain an unfair advantage over other players. These anticheats work by detecting and preventing players from using unauthorized or malicious software or code that could alter the game in some way, such as by giving a player unlimited resources, superpowers, or other benefits that are not available to other players.
+
+There are a few reasons why developers might implement an anticheat in their games:
+
+`To ensure a fair and balanced gaming experience`: Anticheats help to level the playing field by ensuring that all players are playing by the same rules and that no one is able to gain an unfair advantage.
+
+`To protect the integrity of the game`: Executors can disrupt the game's balance and undermine the game's overall quality, which can lead to player frustration and a decline in the game's popularity.
+
+`To prevent exploitation of vulnerabilities`: Anticheats can help to prevent players from exploiting vulnerabilities in the game to gain an advantage or cause harm to other players.
+
+## What about Byfron?
+
+Why are people worrying about Byfron? Roblox only mentioned Byfron in order to address the concerns of investors.
+
+Byfron is only compatible with Windows, and cannot be used on Mac, Linux, or mobile devices. The Microsoft Store version of Roblox is also unable to run Byfron. Byfron doesn't even work on Linux through wine.
+
+Roblox makes even more money off of the community through scripts that require hats which cost Robux. Robux costs money. It can take a single Roblox employee to actually be dedicated every week to update Roblox to patch every executor for possibly days.
+
+In conclusion, Byfron. The anticheat for only investors, will be most likely removed once Roblox's performance flops.
