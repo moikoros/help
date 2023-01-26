@@ -18,7 +18,9 @@ Now you need to set up the properties of the plugin and the `Commands` table by 
 The following is the basic keys used to set plugin properties:
 
 `string PluginName` : The name of your plugin. Keep in mind that your file name must match the value of this property.
+
 `string PluginDescription` : The description of your plugin. If the plugin name is self-explanatory, use this as the credits.
+
 `table Commands` : A table where all of your commands will be created.
 
 Here is a template to guide you.
