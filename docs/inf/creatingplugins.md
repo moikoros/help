@@ -108,3 +108,22 @@ return Plugin
 ```
 
 If you are struggling, feel free to use the following template.
+
+```lua
+local Plugin = {
+    ["PluginName"] = "NAME HERE",
+    ["PluginDescription"] = "DESCRIPTION HERE",
+    ["Commands"] = {
+        ["COMMANDNAME"] = {
+            ["ListName"] = "COMMANDNAME [ARGUMENT1]",
+            ["Description"] = "DESCRIPTION HERE",
+            ["Aliases"] = {"ALIAS1", "ALIAS2", "ALIAS3"},
+            ["Function"] = function(args, speaker)
+                -- CODE HERE  
+            end
+        }
+    }
+}
+
+return Plugin
+```
