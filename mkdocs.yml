@@ -20,6 +20,9 @@ theme:
     repo: fontawesome/brands/github
 
 extra_css:
+  - assets/theme/current.css
+  - assets/theme/colors.css
+  - assets/theme/code.css
   - assets/style.css
 
 nav:
