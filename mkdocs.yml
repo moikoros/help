@@ -36,6 +36,7 @@ extra_css:
 
 nav:
   - General: index.md
+  - Lua Resources: luaresources.md
   - Infinite Yield:
     - Questions: inf/questions.md
     - Executing: inf/executing.md
@@ -44,7 +45,6 @@ nav:
     - Using Plugins: inf/usingplugins.md
     - Creating Plugins: inf/creatingplugins.md
     - Plugin Functions: inf/pluginfunctions.md
-  - Lua Resources: luaresources.md
 
 markdown_extensions:
   - admonition
