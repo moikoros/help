@@ -1,0 +1,118 @@
+.current-api-header {
+	display: flex;
+	align-items: center;
+	gap: 0.75rem;
+	margin: 0 !important;
+	flex-wrap: wrap;
+}
+
+.current-api-header .headerlink {
+	display: none;
+}
+
+.current-api-header > * {
+	flex-shrink: 0;
+}
+
+.current-api-header .current-api-name {
+	margin-right: auto;
+}
+
+.current-api-pills {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	gap: 0.5em;
+	flex-wrap: wrap;
+	line-height: 1.5em;
+
+	font-size: 0.75rem;
+	margin-left: 0.5em;
+	margin-bottom: -2em;
+
+	letter-spacing: -0.02em;
+	font-weight: 400;
+	vertical-align: middle;
+}
+
+.current-api-pills + h1,
+.current-api-pills + h2,
+.current-api-pills + h3,
+.current-api-pills + h4 {
+	margin-top: 0;
+}
+
+.current-api-header .current-api-pills {
+	font-size: 0.5em;
+	margin-bottom: 0em;
+}
+
+.current-api-pills > * {
+	padding: 0.25em 0.75em;
+	border-radius: 1em;
+	height: 2em;
+	flex-shrink: 0;
+}
+
+.current-api-pills .current-api-pill-type {
+	background-color: var(--current-accent-a20);
+	color: var(--current-accent-text);
+}
+
+.current-api-pills .current-api-pill-since {
+	background-color: var(--current-accent-hover-a20);
+	color: var(--current-accent-hover-text);
+}
+
+.current-api-breadcrumbs {
+	display: flex;
+	align-items: center;
+	height: 2rem;
+}
+
+.current-api-breadcrumbs > a {
+	color: var(--current-fg-3);
+}
+
+.current-api-breadcrumbs > a:hover {
+	color: var(--current-accent-hover);
+}
+
+.current-api-breadcrumbs > a::after {
+	content: "/";
+	margin: 0 0.25rem;
+	opacity: 0.5;
+	color: var(--current-fg-3);
+}
+
+.current-api-index-link {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+
+	color: var(--current-fg-1) !important;
+	margin: 1rem 0;
+}
+
+.current-api-index-link:hover {
+	color: var(--current-accent-hover) !important;
+}
+
+.current-api-index-link > .current-api-index-arrow {
+	transform: translateX(0rem);
+	transition: transform 0.2s ease;
+}
+
+.current-api-index-link:hover > .current-api-index-arrow {
+	transform: translateX(0.5rem);
+}
+
+.current-error-api-section {
+	opacity: 1;
+	transition: opacity 0.4s ease;
+}
+
+.current-error-api-section.current-error-api-section-defocus {
+	opacity: 0.4;
+	transition: opacity 0.4s ease;
+}
