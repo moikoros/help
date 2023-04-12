@@ -1,4 +1,9 @@
 ---
+  hide:
+    - navigation
+---
+
+---
 title: Lua Resources
 ---
 
