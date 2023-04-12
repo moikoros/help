@@ -83,6 +83,10 @@ Roblox updates every Wednesday or Tuesday (depending on your timezone). The exec
 
 The reason for this executor having a key system is to support the developers of the executor (maintaining one is time consuming and hard work), this is for them to keep updating the exploits, domains, and feeding their staff.
 
+## Is the level 8 executor I saw on YouTube better than a level 7?
+
+Levels don't matter anymore bro. It's just a marketing strategy now.
+
 ## What is FE?
 
 "Why can't I run require(id) scripts?" - 🤡
