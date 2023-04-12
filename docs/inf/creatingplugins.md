@@ -46,7 +46,7 @@ Once you have a plugin setup, you are ready to start adding commands in the `Com
 
 Every command is a table. Here are the keys for each command.
 
-`string ListName` : This is where you put your command (along with arguments in square brackets []). You can show the user and aliases here too.
+`string ListName` : This is where you put your command (along with arguments in square brackets []). You can show the user and aliases here too. It's what shows up in the command list, meaning it's a visual feature.
 
 `string Description` : The message you want to appear when the user hovers over the command in the command list for more information.
 
@@ -58,7 +58,7 @@ A function for the command usually contains these arguments.
 
 `table args` : A table containing the arguments passed into the command.
 
-[Player](https://developer.roblox.com/api-reference/class/Player) `speaker` : The user's player object (game.Players.LocalPlayer)
+`Instance speaker` : The user's [player object](https://developer.roblox.com/api-reference/class/Player) (game.Players.LocalPlayer)
 
 Infinite Yield contains global functions that you can use in commands. These are covered in the Plugin Functions page.
 
@@ -68,12 +68,12 @@ A snippet is pseudo-code which means it will not work at it's current state as i
 
 ```lua
 -- Note: This is just a snippet
-["EXACTCOMMAND"] = {
-    ["ListName"] = "COMMAND [ARGUMENT]",
-    ["Description"] = "DESCRIPTION HERE",
-    ["Aliases"] = {"ALIAS1", "ALIAS2", "ALIAS3"},
+["exactcommand"] = { -- exactcommand is the exact text the person needs to run the command. example: audiologger
+    ["ListName"] = "command [argument]",
+    ["Description"] = "description here",
+    ["Aliases"] = {"alias1", "alias2", "alias3"},
     ["Function"] = function(args, speaker)
-        -- CODE
+        -- code here
     end
 }
 ```
@@ -88,13 +88,13 @@ local Plugin = {
         ["print"] = {
             ["ListName"] = "print [text]",
             ["Description"] = "Outputs text to the Roblox console",
-            ["Aliases"] = {"p", "out", "output"},
+            ["Aliases"] = {},
             ["Function"] = function(args, speaker)
                 print(getstring(1))  
             end
         },
         ["notify"] = {
-            ["ListName"] = "notify [text]",
+            ["ListName"] = "notify / alert [text]",
             ["Description"] = "uses the notification function",
             ["Aliases"] = {"alert"},
             ["Function"] = function(args, speaker)
@@ -111,15 +111,15 @@ If you are struggling, feel free to use the following template.
 
 ```lua
 local Plugin = {
-    ["PluginName"] = "NAME HERE",
-    ["PluginDescription"] = "DESCRIPTION HERE",
+    ["PluginName"] = "name here",
+    ["PluginDescription"] = "description here",
     ["Commands"] = {
-        ["COMMANDNAME"] = {
-            ["ListName"] = "COMMANDNAME [ARGUMENT1]",
-            ["Description"] = "DESCRIPTION HERE",
-            ["Aliases"] = {"ALIAS1", "ALIAS2", "ALIAS3"},
+        ["exactcommand"] = {
+            ["ListName"] = "command [argument]",
+            ["Description"] = "description here",
+            ["Aliases"] = {"alias1", "alias2", "alias3"},
             ["Function"] = function(args, speaker)
-                -- CODE HERE  
+                -- code here  
             end
         }
     }
