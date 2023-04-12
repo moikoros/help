@@ -1,4 +1,4 @@
-<p>Get an executor. The main page has a list of <a href="../../#recommended-executors">safe and trustable executors</a>.</p>
+<p>Get an executor. The top of the main page has a list of <a href="../../#recommended-executors">safe and trustable executors</a>.</p>
 
 Open the executor.
 
