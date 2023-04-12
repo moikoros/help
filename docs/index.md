@@ -1,12 +1,10 @@
-<script src="../assets/scroll.js"></script>
-
 Sit back, play some [music](https://youtu.be/_DlHmoYP7V4), and read on.
 
 Anything with the 🌟 emoji are my preferred options. Since it's my opinion do not instantly assume they are the best.
 
 ## Recommended Executors
 
-<a href="https://x.synapse.to">Synapse X (Windows) ($20 USD) 🌟</a>
+<img src="./assets/executors/synapse.png" alt="logo" width="64" height="64"><a href="https://x.synapse.to">Synapse X (Windows) ($20 USD) 🌟</a>
 
 <a href="https://script-ware.com/w">Scriptware (Windows) ($19.99 USD) 🌟</a>
 
