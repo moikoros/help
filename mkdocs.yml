@@ -31,7 +31,8 @@ extra_css:
   - assets/theme/paragraph.css
   - assets/theme/page.css
   - assets/theme/admonition.css
-  - assets/style.css
+  - assets/theme/404.css
+  - assets/theme/ref.css
 
 nav:
   - General: index.md
