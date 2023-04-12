@@ -15,6 +15,12 @@ theme:
     code: JetBrains Mono
   features:
     - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.instant
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
   icon:
     repo: octicons/mark-github-16
 
