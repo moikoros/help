@@ -49,12 +49,17 @@ markdown_extensions:
   - admonition
   - attr_list
   - meta
+  - md_in_html
   - pymdownx.superfences
   - pymdownx.betterem
   - pymdownx.details
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.inlinehilite
   - toc:
       permalink: true
   - pymdownx.highlight:
       guess_lang: false
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
