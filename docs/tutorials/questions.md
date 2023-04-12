@@ -1,5 +1,3 @@
-<script src="../../assets/scroll.js"></script>
-
 Sit back, play some [music](https://youtu.be/t3NlwGX-shA), and read on.
 
 For questions not listed here, please join the [Discord](https://discord.com/invite/78ZuWSq).
