@@ -16,6 +16,8 @@ Anything with the 🌟 emoji are my preferred options. Since it's my opinion do 
 
 <a href="https://krnl.place">KRNL (Free)</a>
 
+<a href="https://valyse.net">Valyse (Free)</a>
+
 <a href="https://fluxteam.net">Fluxus (Free)</a>
 
 <a href="https://wearedevs.net/d/Oxygen%20U">Oxygen U (Free)</a>
