@@ -9,8 +9,7 @@ theme:
   logo: assets/logo.png
   favicon: assets/logo.png
   palette:
-    scheme: style-dark
-    primary: black
+    scheme: current-dark
   font:
     text: Inter
     code: JetBrains Mono
