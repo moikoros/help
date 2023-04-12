@@ -25,7 +25,7 @@ extra_css:
 nav:
   - General: index.md
   - Tutorials:
-    - Get Started: tutorials/index.md
+    - Questions: tutorials/questions.md
     - Infinite Yield:
       - Executing: inf/executing.md
       - Getting Plugins: inf/gettingplugins.md
@@ -33,7 +33,6 @@ nav:
       - Using Plugins: inf/usingplugins.md
       - Creating Plugins: inf/creatingplugins.md
       - Plugin Functions: inf/pluginfunctions.md
-    - Questions: tutorials/questions.md
 
 markdown_extensions:
   - admonition
