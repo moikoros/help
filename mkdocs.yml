@@ -16,7 +16,7 @@ theme:
   features:
     - navigation.tabs
   icon:
-    repo: fontawesome/brands/github
+    repo: octicons/mark-github-16
 
 extra_css:
   - assets/theme/current.css
