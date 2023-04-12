@@ -12,11 +12,13 @@ Anything with the 🌟 emoji are my preferred options. Since it's my opinion do 
 
 <a href="https://script-ware.com/m">Scriptware M (Mac) ($19.99 USD)</a>
 
+<a href="https://sirhurt.net">SirHurt ($10 USD)</a>
+
 <a href="https://script-ware.com/ios">Scriptware iOS (Free if you purchase Scriptware M) (Apple Devices)</a>
 
 <a href="https://krnl.place">KRNL (Free)</a>
 
-<a href="https://wearedevs.net/d/Fluxus">Fluxus (Free)</a>
+<a href="https://fluxteam.net">Fluxus (Free)</a>
 
 <a href="https://wearedevs.net/d/Oxygen%20U">Oxygen U (Free)</a>
 
