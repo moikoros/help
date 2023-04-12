@@ -1,3 +1,8 @@
+---
+  hide:
+    - navigation
+---
+
 Sit back, play some [music](https://youtu.be/_DlHmoYP7V4), and read on.
 
 Anything with the 🌟 emoji are my preferred options. Since it's my opinion do not instantly assume they are the best.
