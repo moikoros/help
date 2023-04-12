@@ -129,11 +129,7 @@ I recommend you use an adblocker ([adguard](https://adguard.com) or [adblockulti
 
 ## I want to learn how to script Roblox Lua, but how?
 
-First of all, learning how to fully understand scripting is very hard as the progress can take to months, or years.
-
-What you need is dedication, you won't be able to understand the basics in just a day. But if you're autistic enough maybe you will.
-
-<p>If you want to learn how to make simple scripts, and also intermediate ones I'd recommend checking the <a href="luaresources/">lua resources</a> page.</p>
+<p>Check out the <a href="luaresources/">Lua Resources</a> page.</p>
 
 ## Why do some scripts not work on certain games?
 
