@@ -164,10 +164,6 @@ body {
 	opacity: 0.5;
 }
 
-.md-copyright::after {
-	content: "∙ Theme by Elttob";
-}
-
 @media screen and (max-width: 76.1875em) {
 	.md-nav--primary .md-nav__item {
 		border-top: none;
