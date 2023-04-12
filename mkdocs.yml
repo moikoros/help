@@ -10,7 +10,6 @@ theme:
   favicon: assets/logo.png
   palette:
     scheme: current-dark
-    primary: black
   font:
     text: Inter
     code: JetBrains Mono
@@ -23,6 +22,9 @@ extra_css:
   - assets/theme/current.css
   - assets/theme/colors.css
   - assets/theme/code.css
+  - assets/theme/paragraph.css
+  - assets/theme/page.css
+  - assets/theme/admonition.css
   - assets/style.css
 
 nav:
