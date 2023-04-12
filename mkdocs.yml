@@ -23,7 +23,7 @@ extra_css:
   - assets/style.css
 
 nav:
-  - General: general.md
+  - General: index.md
   - Tutorials:
     - Get Started: tutorials/index.md
     - Infinite Yield:
