@@ -1,4 +1,4 @@
-Get an executor. The `Get Started` page has a list of safe and trustable executors.
+<p>Get an executor. The main page has a list of <a href="#recommended-executors">safe and trustable executors</a>.</p>
 
 Open the executor.
 
