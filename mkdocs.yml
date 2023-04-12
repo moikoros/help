@@ -10,6 +10,7 @@ theme:
   favicon: assets/logo.png
   palette:
     scheme: current-dark
+    primary: black
   font:
     text: Inter
     code: JetBrains Mono
