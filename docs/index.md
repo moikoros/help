@@ -4,7 +4,7 @@ Anything with the 🌟 emoji are my preferred options. Since it's my opinion do 
 
 ## Recommended Executors
 
-<img src="./assets/executors/synapse.png" alt="logo" width="64" height="64"><a href="https://x.synapse.to">Synapse X (Windows) ($20 USD) 🌟</a>
+<a href="https://x.synapse.to">Synapse X (Windows) ($20 USD) 🌟</a>
 
 <a href="https://script-ware.com/w">Scriptware (Windows) ($19.99 USD) 🌟</a>
 
