@@ -9,7 +9,7 @@ theme:
   logo: assets/logo.png
   favicon: assets/logo.png
   palette:
-    scheme: fusion-dark
+    scheme: style-dark
     primary: black
   font:
     text: Inter
