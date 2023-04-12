@@ -3,6 +3,10 @@ site_url: https://github.com/moikoros/help/
 repo_name: infinite/help
 repo_url: https://github.com/moikoros/help
 
+extra:
+  version:
+    provider: mike
+
 theme:
   name: material
   custom_dir: docs/assets/overrides
