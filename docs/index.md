@@ -128,7 +128,7 @@ First of all, learning how to fully understand scripting is very hard as the pro
 
 What you need is dedication, you won't be able to understand the basics in just a day. But if you're autistic enough maybe you will.
 
-<p>If you want to learn how to make simple scripts, and also intermediate ones I'd recommend <a href="https://youtube.com/playlist?list=PLw1uWqQBDcgjKqFjPNgtVtBNx3xTGz-l7">wYn#0001's tutorials</a>, the tutorials are very good and he also teaches you how a UI Library works.</p>
+<p>If you want to learn how to make simple scripts, and also intermediate ones I'd recommend checking the <a href="luaresources/">lua resources</a> page.</p>
 
 ## Why do some scripts not work on certain games?
 
