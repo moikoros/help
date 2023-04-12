@@ -9,7 +9,8 @@ theme:
   logo: assets/logo.png
   favicon: assets/logo.png
   palette:
-    scheme: fusiondoc-dark
+    scheme: fusion-dark
+    primary: black
   font:
     text: Inter
     code: JetBrains Mono
