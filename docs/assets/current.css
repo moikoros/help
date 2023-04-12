@@ -1,0 +1,108 @@
+:root {
+	--current-grey-0: hsl(240, 5%, 2.5%);
+	--current-grey-1: hsl(240, 5%, 5%);
+	--current-grey-2: hsl(240, 5%, 10%);
+	--current-grey-3: hsl(240, 5%, 20%);
+	--current-grey-4: hsl(240, 5%, 30%);
+	--current-grey-5: hsl(240, 5%, 50%);
+	--current-grey-6: hsl(240, 5%, 60%);
+	--current-grey-7: hsl(240, 5%, 80%);
+	--current-grey-8: hsl(240, 5%, 90%);
+	--current-grey-9: hsl(240, 5%, 92%);
+	--current-grey-10: hsl(240, 5%, 95%);
+
+	--current-grey-1-a80: hsl(240, 5%, 5%, 80%);
+	--current-grey-2-a80: hsl(240, 5%, 10%, 80%);
+	--current-grey-8-a80: hsl(240, 5%, 90%, 80%);
+
+	--current-orange: hsl(40, 100%, 50%);
+	--current-orange-p1: hsl(40, 100%, 60%);
+	--current-orange-p2: hsl(40, 100%, 80%);
+	--current-orange-n1: hsl(40, 100%, 40%);
+	--current-orange-n2: hsl(40, 100%, 20%);
+	--current-orange-a10: hsla(40, 100%, 50%, 10%);
+	--current-orange-a20: hsla(40, 100%, 50%, 20%);
+	--current-orange-a50: hsla(40, 100%, 50%, 50%);
+
+	--current-magenta: hsl(320, 100%, 50%);
+	--current-magenta-p1: hsl(320, 100%, 60%);
+	--current-magenta-p2: hsl(320, 100%, 80%);
+	--current-magenta-n1: hsl(320, 100%, 40%);
+	--current-magenta-n2: hsl(320, 100%, 20%);
+	--current-magenta-a10: hsl(320, 100%, 50%, 10%);
+	--current-magenta-a20: hsl(320, 100%, 50%, 20%);
+	--current-magenta-a50: hsl(320, 100%, 50%, 50%);
+
+	--current-grey: hsl(240, 5%, 60%);
+	--current-grey-p1: hsl(240, 5%, 70%);
+	--current-grey-p2: hsl(240, 5%, 80%);
+	--current-grey-n1: hsl(240, 5%, 40%);
+	--current-grey-n2: hsl(240, 5%, 20%);
+	--current-grey-a10: hsl(240, 5%, 60%, 10%);
+	--current-grey-a20: hsl(240, 5%, 60%, 20%);
+	--current-grey-a50: hsl(240, 5%, 60%, 50%);
+}
+
+[data-md-color-scheme="current-light"] {
+	--current-bg-1: var(--current-grey-8);
+	--current-bg-1-a80: var(--current-grey-8-a80);
+	--current-bg-2: var(--current-grey-9);
+	--current-bg-3: var(--current-grey-10);
+
+	--current-fg-1: var(--current-grey-2);
+	--current-fg-2: var(--current-grey-3);
+	--current-fg-3: var(--current-grey-4);
+
+	--current-accent: var(--current-orange-n1);
+	--current-accent-light: var(--current-orange-p2);
+	--current-accent-dark: var(--current-orange-n2);
+	--current-accent-text: var(--current-orange-n2);
+	--current-accent-a10: var(--current-orange-a10);
+	--current-accent-a20: var(--current-orange-a20);
+
+	--current-accent-hover: var(--current-grey);
+	--current-accent-hover-text: var(--current-grey-n2);
+	--current-accent-hover-a10: var(--current-grey-a10);
+	--current-accent-hover-a20: var(--current-grey-a20);
+
+	--current-stroke: hsla(240, 5%, 0%, 15%);
+	--current-smoke: hsla(240, 5%, 85%, 90%);
+}
+
+[data-md-color-scheme="current-dark"] {
+	--current-bg-1: var(--current-grey-2);
+	--current-bg-1-a80: var(--current-grey-2-a80);
+	--current-bg-2: var(--current-grey-3);
+	--current-bg-3: var(--current-grey-4);
+
+	--current-fg-1: var(--current-grey-9);
+	--current-fg-2: var(--current-grey-8);
+	--current-fg-3: var(--current-grey-7);
+
+	--current-accent: var(--current-orange);
+	--current-accent-light: var(--current-orange-p2);
+	--current-accent-dark: var(--current-orange-n2);
+	--current-accent-text: var(--current-orange-p1);
+	--current-accent-a10: var(--current-orange-a10);
+	--current-accent-a20: var(--current-orange-a20);
+
+	--current-accent-hover: var(--current-grey);
+	--current-accent-hover-text: var(--current-grey-p1);
+	--current-accent-hover-a10: var(--current-grey-a10);
+	--current-accent-hover-a20: var(--current-grey-a20);
+
+	--current-stroke: hsla(240, 5%, 100%, 15%);
+	--current-smoke: hsla(240, 5%, 0%, 90%);
+}
+
+[data-md-color-scheme="current-light"] .current-dark-theme-only,
+[data-md-color-scheme="current-dark"] .current-light-theme-only,
+[data-md-color-scheme="current-light"] img[src$="#only-dark"],
+[data-md-color-scheme="current-dark"] img[src$="#only-light"] {
+	display: none !important;
+}
+
+[data-md-color-scheme="current-light"] img[src$="#only-light"],
+[data-md-color-scheme="current-dark"] img[src$="#only-dark"] {
+	display: initial;
+}
