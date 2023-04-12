@@ -32,6 +32,7 @@ nav:
     - Using Plugins: inf/usingplugins.md
     - Creating Plugins: inf/creatingplugins.md
     - Plugin Functions: inf/pluginfunctions.md
+  - Lua Resources: luaresources.md
 
 markdown_extensions:
   - admonition
