@@ -12,6 +12,8 @@ All of the following variables/functions are globals in the source code of Infin
 
 	[Roblox variable documentation](https://create.roblox.com/docs/scripting/luau/variables).
 
+Friendly reminder, a [snippet](https://en.m.wikipedia.org/wiki/Snippet_(programming)) is not fully completed code.
+
 ## getstring
 
 `getstring(num)`
