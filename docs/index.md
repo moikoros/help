@@ -29,6 +29,9 @@ Anything with the 🌟 emoji are my preferred options. Since it's my opinion do 
 
 "hello welcoem to infinit tek suport mi nam is toon" - zach
 
+? question "Why should I use an executor made for computers?"
+	Most scripts are designed for computers. Lots of them use keybinds which you can't get on mobile without a special gui. It's still a hassle either way.
+
 ## What is an executor?
 
 An exploit is the use of glitches and software vulnerabilities in Roblox by a player to alter the game or gameplay for an unfair advantage.
