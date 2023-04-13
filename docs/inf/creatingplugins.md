@@ -52,6 +52,18 @@ Every command is a table. Here are the keys for each command.
 
 `table Aliases` : These are the aliases that you can use to run the command. Make sure that the table is sorted and each element of the table is an alias for your command. If you don't want to create any aliases for your command, leave this table empty.
 
+=== "Aliases"
+	```lua
+	-- snippet
+	["Aliases"] = {"burgerman"}
+	```
+
+=== "None"
+	```lua
+	-- snippet
+	["Aliases"] = {}
+	```
+
 `function Function` : This is the function that is executed when the user runs your command.
 
 A function for the command usually contains these arguments.
@@ -64,7 +76,7 @@ A function for the command usually contains these arguments.
 	```
 
 === "Args table"
-	```
+	```lua
 	{"well", "hello", "there"}
 	```
 
