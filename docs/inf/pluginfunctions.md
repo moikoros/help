@@ -1,3 +1,5 @@
+This page will be highly procrastinated on.
+
 All of the following variables/functions are globals in the source code of Infinite Yield. This will not list all of them since there is too much but it'll list some good ones for plugin development. Check the [Infinite Yield source](https://github.com/EdgeIY/infiniteyield/blob/master/source) if you wish to find more.
 
 Friendly reminder, a [snippet](https://en.m.wikipedia.org/wiki/Snippet_(programming)) is not fully completed code.
