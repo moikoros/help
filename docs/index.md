@@ -126,7 +126,7 @@ The Workspace folder is a folder that's in your executor's folder. That's alot o
 
 ## What are some safe websites to get scripts?
 
-I recommend you use an adblocker ([adguard](https://adguard.com) or [adblockultimate](https://adblockultimate.net)) when you visit some of these websites.
+I recommend you use an adblocker ([ublock origin](https://ublockorigin.com), [adguard](https://adguard.com), [adblockultimate](https://adblockultimate.net)) when you visit some of these websites.
 
 <a href="https://robloxscripts.com">robloxscripts</a>
 
