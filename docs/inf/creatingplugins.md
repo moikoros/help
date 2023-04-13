@@ -58,6 +58,16 @@ A function for the command usually contains these arguments.
 
 `table args` : A table containing the arguments passed into the command.
 
+=== "Command with args"
+	```
+	;notify well hello there
+	```
+
+=== "Args table"
+	```
+	{"well", "hello", "there"}
+	```
+
 `Instance speaker` : The user's [player object](https://developer.roblox.com/api-reference/class/Player) (game.Players.LocalPlayer)
 
 Infinite Yield contains global functions that you can use in commands. These are covered in the Plugin Functions page.
