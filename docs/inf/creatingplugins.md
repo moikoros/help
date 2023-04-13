@@ -4,6 +4,8 @@ Infinite Yield plugins are a way for you to add custom content to your command l
 
 Plugins are `.iy` files and should be placed in the `workspace` folder of your executor.
 
+Friendly reminder, a `[snippet](https://en.m.wikipedia.org/wiki/Snippet_(programming))` is not fully completed code.
+
 ## Setting Up
 
 Start by opening your favorite Lua text editor (IDE). Examples: [Visual Studio Code](https://code.visualstudio.com/download), [Sublime Text](https://www.sublimetext.com/download), [Atom](https://github.com/atom/atom#installing), [Notepad++](https://notepad-plus-plus.org/downloads), etc.
@@ -54,13 +56,13 @@ Every command is a table. Here are the keys for each command.
 
 === "Aliases"
 	```lua
-	-- snippet
+	-- Note: This is just a snippet
 	["Aliases"] = {"burgerman"}
 	```
 
 === "None"
 	```lua
-	-- snippet
+	-- Note: This is just a snippet
 	["Aliases"] = {}
 	```
 
@@ -77,6 +79,7 @@ A function for the command usually contains these arguments.
 
 === "Args table"
 	```lua
+	-- Note: This is just a snippet
 	{"well", "hello", "there"}
 	```
 
@@ -85,8 +88,6 @@ A function for the command usually contains these arguments.
 Infinite Yield contains global functions that you can use in commands. These are covered in the Plugin Functions page.
 
 Each command should follow the following format.
-
-A snippet is pseudo-code which means it will not work at it's current state as it has been ripped from its original required code.
 
 ```lua
 -- Note: This is just a snippet
