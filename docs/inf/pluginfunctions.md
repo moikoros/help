@@ -6,8 +6,8 @@ All of the following variables/functions are globals in the source code of Infin
 	A global variable (non-local variable) is visible to all scopes of a script.
 
 	```lua hl_lines="2"
-	local notglobal = "hello" --> local, not global
-	global = "sup" --> global, not local
+	local notglobal = "hello" --> local variable
+	global = "sup" --> global variable
 	```
 
 	[Roblox variable documentation](https://create.roblox.com/docs/scripting/luau/variables).
