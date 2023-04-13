@@ -6,7 +6,7 @@ Plugins are `.iy` files and should be placed in the `workspace` folder of your e
 
 ## Setting Up
 
-Start by opening your favorite Lua text editor (Examples: [Notepad++](https://notepad-plus-plus.org/downloads), Atom, [Visual Studio Code](https://code.visualstudio.com/download), [Sublime Text](https://www.sublimetext.com/download), etc.).
+Start by opening your favorite Lua text editor (IDE). Examples: [Visual Studio Code](https://code.visualstudio.com/download), [Sublime Text](https://www.sublimetext.com/download), [Atom](https://github.com/atom/atom#installing), [Notepad++](https://notepad-plus-plus.org/downloads), etc.
 
 Next, create a script that returns a table. I recommend that you name the table `Plugin`.
 
