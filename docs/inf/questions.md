@@ -15,7 +15,11 @@ For questions not listed here, please join the [Discord](https://discord.com/inv
 	Deleting this file will delete all your saved Infinite Yield settings (Prefix, Waypoints, etc.)
 
 !!! example "Mobile Solution"
-	Execute `delfile("IY_FE.iy")`
+	Execute the following:
+	
+	```lua
+	delfile("IY_FE.iy")
+	```
 
 	Deleting this file will delete all your saved Infinite Yield settings (Prefix, Waypoints, etc.)
 
