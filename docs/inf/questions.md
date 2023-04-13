@@ -29,5 +29,5 @@ It needs a tool from the game itself that has a handle. An example of a handle i
 
 If there are no tools in the game then you can not use the command.
 
-??? warning "The sad truth"
+!!! warning "The sad truth"
 	You can't spawn a tool with a script.
