@@ -1,18 +1,36 @@
 All of the following variables/functions are globals in the source code of Infinite Yield. This will not list all of them since there is too much but it'll list some good ones for plugin development. Check the [Infinite Yield source](https://github.com/EdgeIY/infiniteyield/blob/master/source) if you wish to find more.
 
-!!! question "What are globals?"
-	A local variable is accessible only in the block where it’s declared.
+Friendly reminder, a [snippet](https://en.m.wikipedia.org/wiki/Snippet_(programming)) is not fully completed code.
 
-	A global variable (non-local variable) is visible to all scopes of a script.
+## What are globals?
 
-	```lua hl_lines="2"
-	local notglobal = "hello" --> local variable
-	global = "sup" --> global variable
+A local variable is accessible only in the block where it’s declared.
+
+A global variable (non-local variable) is visible to all scopes of a script.
+
+[Roblox variable documentation](https://create.roblox.com/docs/scripting/luau/variables).
+
+```lua hl_lines="2"
+local notglobal = "hello" --> local variable
+global = "sup" --> global variable
+```
+
+For a better example of globals:
+
+=== "Code"
+	```lua hl_lines="2 5"
+	print(yes)
+	print(globalyes)
+
+	local yes = "test"
+	local globalyes = "hi"
 	```
 
-	[Roblox variable documentation](https://create.roblox.com/docs/scripting/luau/variables).
-
-Friendly reminder, a [snippet](https://en.m.wikipedia.org/wiki/Snippet_(programming)) is not fully completed code.
+=== "Output"
+	``` hl_lines="2"
+	nil
+	hi
+	```
 
 ## getstring
 
