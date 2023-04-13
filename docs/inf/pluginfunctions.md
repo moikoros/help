@@ -11,3 +11,27 @@ All of the following variables/functions are globals in the source code of Infin
 	```
 
 	[Roblox variable documentation](https://create.roblox.com/docs/scripting/luau/variables).
+
+## getstring
+
+`getstring(num)`
+
+`num` is a whole number. For example: 1, 3, 8, etc. Not 1.2, 5.9, etc.
+
+=== "Code"
+	```lua
+	-- Note: This is just a snippet
+	["Function"] = function(args, speaker)
+		print(getstring(1))
+	end
+	```
+
+=== "Command"
+	```
+	;test well hello there
+	```
+
+=== "Output"
+	```
+	well hello there
+	```
