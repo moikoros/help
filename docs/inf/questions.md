@@ -25,10 +25,9 @@ For questions not listed here, please join the [Discord](https://discord.com/inv
 
 ## Why do some commands need a tool?
 
-It simply requires a tool to function properly.
-
 It needs a tool from the game itself that has a handle. An example of a handle is a sword. You hold the sword by it's handle which is usually an invisible block.
 
 If there are no tools in the game then you can not use the command.
 
-You can't spawn a tool in through a script.
+??? warning "The sad truth"
+	You can't spawn a tool with a script.
