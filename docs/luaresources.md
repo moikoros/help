@@ -17,6 +17,10 @@ If you want to learn how to make simple scripts, and also intermediate ones I'd 
 
 [Lua 5.1 Sample](https://www.lua.org/gems/sample.pdf)
 
+[Lua Programming Tutorial Series](https://www.youtube.com/watch?v=4NKMtazVNe8&list=PL5gRzHmN4Dg1zPCMXOc1NXDxzvf3mb5_U)
+
+[Lua in 100 Seconds](https://www.youtube.com/watch?v=jUuqBZwwkQw)
+
 ## Luau (Roblox's Lua)
 
 [Luau Syntax](https://luau-lang.org/syntax)
