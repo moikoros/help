@@ -41,8 +41,6 @@ nav:
     - Questions: inf/questions.md
     - Executing: inf/executing.md
     - Getting Plugins: inf/gettingplugins.md
-    - Installing Plugins: inf/installingplugins.md
-    - Using Plugins: inf/usingplugins.md
     - Creating Plugins: inf/creatingplugins.md
     - Plugin Functions: inf/pluginfunctions.md
 
