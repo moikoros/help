@@ -23,7 +23,7 @@ For a better example of globals:
 	print(globalyes)
 
 	local yes = "test"
-	local globalyes = "hi"
+	globalyes = "hi"
 	```
 
 === "Output"
