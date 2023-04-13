@@ -3,6 +3,6 @@ Plugins can be found in the [`#plugins`](https://discord.com/channels/5030457181
 Video to install plugins:
 
 <video width="320" height="240" controls>
-  <source src="../assets/add_plugins.mp4" type="video/mp4">
+  <source src=".././assets/add_plugins.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
