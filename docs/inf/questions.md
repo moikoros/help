@@ -1,19 +1,23 @@
-Sit back, play some [music](https://youtu.be/t3NlwGX-shA), and read on.
-
 For questions not listed here, please join the [Discord](https://discord.com/invite/78ZuWSq).
 
-## Why does the script not load?
+## File Corruption
 
 <img src="../../assets/stuck_loop.png" alt="infinite loading">
 
-!!! example "File Corruption"
+!!! example "Computer Solution"
 	1. Go into the folder where your executor is located
-	2. Look for a folder named `workspace`
-	3. Go into the folder named `workspace`
-	4. Find the file named `IY_FE.iy` and delete it
-	5. Join a game and execute Infinite Yield
+	2. Look for a folder named `workspace` and open it
+	3. Find the file named `IY_FE.iy`
+	4. Send the file to an infinite yield developer in the discord (optional step)
+	5. Delete the file
+	6. Join a game and execute Infinite Yield
 	
-	This will delete all your saved Infinite Yield settings (Prefix, Waypoints, etc.)
+	Deleting this file will delete all your saved Infinite Yield settings (Prefix, Waypoints, etc.)
+
+!!! example "Mobile Solution"
+	Execute `delfile("IY_FE.iy")`
+
+	Deleting this file will delete all your saved Infinite Yield settings (Prefix, Waypoints, etc.)
 
 ## Why do some commands need a tool?
 
