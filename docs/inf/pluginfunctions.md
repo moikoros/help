@@ -2,7 +2,9 @@ All of the following variables/functions are globals in the source code of Infin
 
 ??? question "What are globals?"
 	A local variable is accessible only in the block where it’s declared.
+
 	A global variable (non-local variable) is visible to all scopes of a script.
+
 	```lua hl_lines="2"
 	local notglobal = "hello" --> local, not global
 	global = "sup" --> global, not local
