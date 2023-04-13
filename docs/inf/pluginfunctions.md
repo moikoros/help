@@ -35,3 +35,7 @@ All of the following variables/functions are globals in the source code of Infin
 	```
 	well hello there
 	```
+??? question "Explained"
+	The function converts the command's provided arguments into a complete string with spaces between each argument.
+
+	`getstring(1)` used in the example will return a string which is the first argument and everything after it combined into a full string.
