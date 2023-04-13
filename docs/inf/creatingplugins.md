@@ -4,7 +4,7 @@ Infinite Yield plugins are a way for you to add custom content to your command l
 
 Plugins are `.iy` files and should be placed in the `workspace` folder of your executor.
 
-Friendly reminder, a [`snippet`](https://en.m.wikipedia.org/wiki/Snippet_(programming)) is not fully completed code.
+Friendly reminder, a [snippet](https://en.m.wikipedia.org/wiki/Snippet_(programming)) is not fully completed code.
 
 ## Setting Up
 
@@ -85,7 +85,7 @@ A function for the command usually contains these arguments.
 
 `Instance speaker` : The user's [player object](https://developer.roblox.com/api-reference/class/Player) (game.Players.LocalPlayer)
 
-Infinite Yield contains global functions that you can use in commands. These are covered in the Plugin Functions page.
+Infinite Yield contains global functions that you can use in commands. These are covered in the [Plugin Functions](./pluginfunctions) page.
 
 Each command should follow the following format.
 
