@@ -27,7 +27,7 @@ This is from a file corruption caused by your executor.
 
 ## Why do some commands need a tool?
 
-It needs a tool from the game itself that has a handle. An example of a handle is a sword. You hold the sword by it's handle which is usually an invisible block.
+It needs a tool from the game itself that has a handle. A good example of a tool with a handle is a sword. You hold the sword by it's handle which is usually an invisible block.
 
 If there are no tools in the game then you can not use the command.
 
