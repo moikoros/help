@@ -92,17 +92,29 @@ Levels don't matter anymore bro. It's just a marketing strategy now.
 
 ## What is FE?
 
-"Why can't I run require(id) scripts?" - 🤡
-
 `Filtering Enabled` is a form of anti-exploiting Roblox has implemented.
 
 Basically, `Filtering Enabled` (`FE`) disables client modification of server values, or in simpler words, the client can't make changes to the game.
 
-As Roblox says: "Enabling `Filtering Enabled` is the best way of restricting exploiters from ruining your games. When it is enabled, with a few exceptions, changes made by clients will not replicate to the server (and therefore will not replicate to other clients). This means, if your game is properly designed, exploiters will find it much harder to operate in your game."
+As Roblox says: "Enabling `Filtering Enabled` is the best way of restricting exploiters from ruining your games. When it is enabled, with a few exceptions, changes made by clients will **not replicate** to the server (and therefore will **not replicate** to other clients). This means, if your game is properly designed, exploiters will find it much harder to operate in your game."
 
-"But my friend said he can disable FE and it's possible!"
+So basically what you run through your executor has a high chance of not showing to other players and only happens for you.
 
-Shut up, no it's not. He lied to you, stop trusting strangers on the internet.
+Some examples include: kicking players, banning players, killing players (by setting their health to 0), setting the walkspeed of other players, etc.
+
+Use common sense when you execute things, including things that seem impossible or too good to be true.
+
+"But my friend said he can disable `FE` and it's possible I saw a YouTube video!"
+
+No it's not. He lied to you. What's funny is a video showed a fake `FE` bypass but it was actually a game with backdoors. That brings us over to:
+
+## What is the difference between Executors and Serverside Executors?
+
+"Why can't I run `require(id)` scripts?" - 🤡
+
+Serverside Executors use an infected script in a game which was inserted through Roblox Studio when developing the game. This allows you to do anything the server can.
+
+Executors manipulate the client which means it's sadly limited to do what the client can.
 
 ## Can I copy games?
 
