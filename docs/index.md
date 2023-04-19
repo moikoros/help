@@ -152,7 +152,7 @@ There are a few reasons why developers might implement an anticheat in their gam
 
 ## What about Byfron?
 
-Ah yes, the upcoming anticheat which is actually an anti tamper. It's going to be easily bypassed but let's sit down for a second.
+Ah yes, the upcoming anticheat which is actually an anti tamper. It's going to be easily bypassed, but let's sit down for a second.
 
 Why are people worrying about Byfron? Roblox only mentioned Byfron in order to address the concerns of investors.
 
