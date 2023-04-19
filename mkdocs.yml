@@ -38,7 +38,7 @@ nav:
   - General: index.md
   - Lua Resources: luaresources.md
   - Infinite Yield:
-    - Questions: inf/questions.md
+    - Common Issues: inf/issues.md
     - Executing: inf/executing.md
     - Getting Plugins: inf/gettingplugins.md
     - Creating Plugins: inf/creatingplugins.md
