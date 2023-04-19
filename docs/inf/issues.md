@@ -1,4 +1,4 @@
-For questions not listed here, please join the [Discord](https://discord.com/invite/78ZuWSq).
+For issues not listed here, please join the [Discord](https://discord.com/invite/78ZuWSq).
 
 ## Why is the script stuck on loading?
 
