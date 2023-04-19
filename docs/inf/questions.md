@@ -1,8 +1,10 @@
 For questions not listed here, please join the [Discord](https://discord.com/invite/78ZuWSq).
 
-## File Corruption
+## Why is the script stuck on loading?
 
 <img src="../../assets/stuck_loop.png" alt="infinite loading">
+
+This is from a file corruption caused by your executor.
 
 !!! example "Computer Solution"
 	1. Go into the folder where your executor is located
